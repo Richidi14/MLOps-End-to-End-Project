@@ -4,6 +4,8 @@
 - Git: https://git-scm-com
 - Flowchart: https://Whimsical.com/
 - MLOps Tool: https://evidentlyai.com/
+- Data link: https://https://www.kaggle.com/datasets/moro23/easyvisa-dataset
+
 
 
 ## How to run?
